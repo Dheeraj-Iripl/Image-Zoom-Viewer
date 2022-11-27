@@ -12,7 +12,12 @@
     "expo": "~47.0.8",
     "expo-status-bar": "~1.4.2",
     "react": "18.1.0",
-    "react-native": "0.70.5"
+    "react-native": "0.70.5",
+    "react-native-fast-image": "^8.6.3",
+    "react-native-image-layout": "^5.9.1",
+    "react-native-image-pan-zoom": "^2.1.12",
+    "react-native-image-zoom-viewer": "^3.0.1",
+    "react-native-photo-view-ex": "^1.1.0"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9"
